@@ -3,34 +3,39 @@
 
 [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Getting Started
+# [Mulai Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
+[![CDNJS](https://img.shields.io/cdnjs/v/startbootstrap-sb-admin-2.svg)](https://cdnjs.com/libraries/startbootstrap-sb-admin-2)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git`
-* Fork the repo
+[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) adalah template dasbor admin open source untuk [Bootstrap](http://getbootstrap.com/) yang dibuat oleh [ Mulai Bootstrap](http://startbootstrap.com/).
 
-## Using the Source Files
+## Mulai
 
-After cloning the repo take a look at the `gulpfile.js` and check out the tasks available:
-* `gulp` The default task will compile the LESS and JS into the `dist` directory and minify the output, and it will copy all vendor libraries from `bower_components` into the `vendor` directory
-* `gulp dev` The dev task will serve up a local version of the template and will watch the LESS, JS, and HTML files for changes and reload the browser windo automatically
+Untuk mulai menggunakan template ini, pilih salah satu opsi berikut untuk memulai:
+* [Unduh rilis terbaru di Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/)
+* Klon repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin-2.git`
+* Garpu repo
 
-To update dependencies, run `bower update` and then run `gulp copy` to copy the updated dependencies into the `vendor` directory
+## Menggunakan File Sumber
 
-## Bugs and Issues
+Setelah mengkloning repo, lihat `gulpfile.js` dan periksa tugas yang tersedia:
+* `gulp` Tugas default akan mengkompilasi KURANG dan JS ke dalam direktori `dist` dan mengecilkan output, dan itu akan menyalin semua pustaka vendor dari `bower_components` ke direktori `vendor`
+* `gulp dev` Tugas dev akan menyajikan versi lokal dari template dan akan melihat file KURANG, JS, dan HTML untuk perubahan dan memuat ulang jendela browser secara otomatis
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/).
+Untuk memperbarui dependensi, jalankan `bower update` lalu jalankan `gulp copy` untuk menyalin dependensi yang diperbarui ke direktori `vendor`
 
-## Creator
+## Bug dan Masalah
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Punya bug atau masalah dengan template ini? [Buka masalah baru](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/issues) di sini di GitHub atau tinggalkan komentar di [halaman ringkasan template di Start Bootstrap](http://startbootstrap .com/template-overviews/sb-admin-2/).
+
+## Pencipta
+
+Start Bootstrap dibuat oleh dan dikelola oleh **[David Miller](http://davidmiller.io/)**, Pemilik [Blackrock Digital](http://blackrockdigital.io/).
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Mulai Bootstrap didasarkan pada kerangka kerja [Bootstrap](http://getbootstrap.com/) yang dibuat oleh [Mark Otto](https://twitter.com/mdo) dan [Jacob Thorton](https://twitter.com /gemuk).
 
-## Copyright and License
+## Hak Cipta dan Lisensi
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
+Hak Cipta 2013-2016 Blackrock Digital LLC. Kode dirilis di bawah lisensi [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE).
