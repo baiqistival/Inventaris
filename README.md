@@ -6,19 +6,21 @@
   frontend : Bootstrap
   Backend  : PHP
 # Fitur
-*Authentications
-  Login
-  Register
-  Logout
-*File Management
-  Upload
-  Delate
+Authentications
+  .Login
+  .Register
+  .Logout
+File Management
+  .Upload
+  .Delate
 # Development Team
- Baiq istival amelia : project Manajer,Back End,Front end-Dashboard
- Baiq elna azmi safitri : Front End-Register
- Ida fatitah : Front End-Login
- Marzuki : Front End - pload
+ .Baiq istival amelia : project Manajer,Back End,Front end-Dashboard
+ .Baiq elna azmi safitri : Front End-Register
+ .Ida fatitah : Front End-Login
+ .Marzuki : Front End - pload
+ 
 Tampilan Aplikasi
+
 
 [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 [![CDNJS](https://img.shields.io/cdnjs/v/startbootstrap-sb-admin-2.svg)](https://cdnjs.com/libraries/startbootstrap-sb-admin-2)
