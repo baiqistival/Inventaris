@@ -20,6 +20,8 @@ File Management
  .Marzuki : Front End - pload
  
 Tampilan Aplikasi
+ <h3>HALAMAN AWAL</h3>
+ <img src=_"https://github.com/baiqistival/Inventaris/blob/main/Capture1.PNG_"width="70%">
 
 
 [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
