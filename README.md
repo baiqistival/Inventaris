@@ -1,9 +1,24 @@
-# Aolikasi Invetaris 
+# Aplikasi Invetaris 
+  Aplikasi Iventaris ini adalah sebuah aplikasi yang bisa digunakan ditoko-toko,baik toko baju,sembako dan lain sebagainya.tujuanya: untuk memudahkan penjualan.
+  
 
 ## Teknologi Yang Digunakan
-
-## Library
-
+  .frontend : Bootstrap
+  .Backend  : PHP
+# Fitur
+Authentications
+  .login
+  .Register
+  .Logout
+Fle Management
+  .Upload
+  .Delate
+##Development Team
+ . Baiq istival amelia : project Manajer,Back End,Front end-Dashboard
+ . Baiq elna azmi safitri : Front End-Register
+ . Ida fatitah : Front End-Login
+ . Marzuki : Front End - pload
+Tampilan Aplikasi
 
 [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
 [![CDNJS](https://img.shields.io/cdnjs/v/startbootstrap-sb-admin-2.svg)](https://cdnjs.com/libraries/startbootstrap-sb-admin-2)
