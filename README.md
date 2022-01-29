@@ -3,21 +3,21 @@
   
 
 ## Teknologi Yang Digunakan
-  .frontend : Bootstrap
-  .Backend  : PHP
+  frontend : Bootstrap
+  Backend  : PHP
 # Fitur
 Authentications
-  .login
-  .Register
-  .Logout
+  Login
+  Register
+  Logout
 Fle Management
-  .Upload
-  .Delate
+  Upload
+  Delate
 # Development Team
- . Baiq istival amelia : project Manajer,Back End,Front end-Dashboard
- . Baiq elna azmi safitri : Front End-Register
- . Ida fatitah : Front End-Login
- . Marzuki : Front End - pload
+ Baiq istival amelia : project Manajer,Back End,Front end-Dashboard
+ Baiq elna azmi safitri : Front End-Register
+ Ida fatitah : Front End-Login
+ Marzuki : Front End - pload
 Tampilan Aplikasi
 
 [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)
