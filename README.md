@@ -6,11 +6,11 @@
   frontend : Bootstrap
   Backend  : PHP
 # Fitur
-Authentications
+*Authentications
   Login
   Register
   Logout
-Fle Management
+*File Management
   Upload
   Delate
 # Development Team
