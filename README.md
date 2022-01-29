@@ -19,7 +19,7 @@ File Management
  .Ida fatitah : Front End-Login
  .Marzuki : Front End - pload
  
-Tampilan Aplikasi
+# Tampilan Aplikasi
  <h3>HALAMAN AWAL</h3>
  <img src=_"https://github.com/baiqistival/Inventaris/blob/main/Capture1.PNG_"width="70%">
 
