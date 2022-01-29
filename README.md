@@ -13,7 +13,7 @@ Authentications
 Fle Management
   .Upload
   .Delate
-##Development Team
+#Development Team
  . Baiq istival amelia : project Manajer,Back End,Front end-Dashboard
  . Baiq elna azmi safitri : Front End-Register
  . Ida fatitah : Front End-Login
